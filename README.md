@@ -98,6 +98,14 @@ Two additional Python scrips were created in order to get the face images and to
 # Citation
  If you find this project useful, consider citing it using:
  ```
+@article{georgiadis2024synthetic,
+  title={A synthetic human-centric dataset generation pipeline for active robotic vision},
+  author={Georgiadis, Charalampos and Passalis, Nikolaos and Nikolaidis, Nikos},
+  journal={Pattern Recognition Letters},
+  year={2024},
+  publisher={Elsevier}
+}
+
  @inproceedings{ActiveFace,
   title={ActiveFace: A Synthetic Active Perception Dataset for Face Recognition},
   author={Georgiadis, Charalampos and Passalis, Nikolaos and Nikolaidis, Nikos},
